@@ -10,7 +10,7 @@ We're gamers just like you, and we understand how frustrating input lag, low FPS
 Our free and premium utilities contain some of the **most advanced Windows tweaks available**, from kernel optimizations and BCD edits to hidden registry hacks. We're continuously improving them, ensuring that our tools stay on the cutting edge of PC performance enhancement.
 
 **Get Started with Our Free Utility**  
-Want a taste of what ToX Tweaks can do? Check out our **open-source free utility** and start optimizing your PC today! It's available here: [ToX Tweaks Free Utility](https://github.com/YourRepoLink).
+Want a taste of what ToX Tweaks can do? Check out our **open-source free utility** and start optimizing your PC today! It's available here: [ToX Tweaks Free Utility](https://github.com/ToXTweaks/ToX-Free-Utility).
 
 **Ready to Unlock Your PC's Full Potential? 🚀**  
 For those who want to take their optimizations to the next level, you can find our premium tweaks at [toxtweaks.com](https://toxtweaks.com). Whether you’re after maximum FPS or minimal input lag, our premium tools will help you achieve it—safely and easily.
