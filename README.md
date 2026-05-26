@@ -13,7 +13,7 @@ Free tools made to improve Windows performance, reduce latency, clean junk, and 
     <img src="https://img.shields.io/badge/Discord-Join%20-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
-  <a href="https://toxtweaks.com/socials">
+  <a href="https://buy.stripe.com/cN24hyfqf9lT2Va28a">
     <img src="https://img.shields.io/badge/Donate-Support%20US-ff4d6d?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
   </a>
 
