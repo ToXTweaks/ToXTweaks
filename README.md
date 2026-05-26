@@ -1,7 +1,7 @@
 <h1 align="center">⚡ The Best Free & Open-Source Optimization Tools</h1>
 
 <p align="center">
-  Free Windows optimization tools focused on boosting FPS, reducing latency, improving responsiveness, and creating a smoother gaming experience.
+    Free tools made to improve Windows performance, reduce latency, clean junk, and optimize your PC for gaming.
 </p>
 
 <p align="center">
