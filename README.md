@@ -6,7 +6,7 @@ Free tools made to improve Windows performance, reduce latency, clean junk, and 
 
 <p align="center">
   <a href="https://toxtweaks.com/socials">
-    <img src="https://img.shields.io/badge/Socials-ToX%20Tweaks-638ECB?style=for-the-badge&logo=linktree&logoColor=white" />
+    <img src="https://img.shields.io/badge/Socials-Follow%20638ECB?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 
   <a href="https://discord.gg/toxtweaks">
