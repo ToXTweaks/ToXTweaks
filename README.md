@@ -1,2 +1,2 @@
 The best free & open-source optimization tools
-Socials: https://toxtweaks.com/socials
+\n Socials: https://toxtweaks.com/socials
