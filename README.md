@@ -14,7 +14,7 @@
   </a>
 
   <a href="https://toxtweaks.com/socials">
-    <img src="https://img.shields.io/badge/Donate-Support%20Development-ff4d6d?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+    <img src="https://img.shields.io/badge/Donate-Support%20US-ff4d6d?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
   </a>
 
   <a href="https://toxtweaks.com">
