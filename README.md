@@ -23,12 +23,3 @@
 </p>
 
 ---
-
-## 🔥 Features
-
-- FPS & latency optimizations  
-- Windows debloating tools  
-- Network & responsiveness tweaks  
-- Power plan optimizations  
-- Gaming-focused utilities  
-- Completely free & open-source  
