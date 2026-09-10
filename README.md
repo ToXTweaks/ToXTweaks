@@ -21,5 +21,3 @@ Free tools made to improve Windows performance, reduce latency, clean junk, and 
     <img src="https://img.shields.io/badge/Website-toxtweaks.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
-
----
